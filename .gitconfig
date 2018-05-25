@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[credential]
+	helper = osxkeychain
+[alias]
+  ch = checkout
+  s = status
+  br = branch
+  co = commit
+  fo = fetch origin
+  di = diff
+  po = push origin
+  m = master
+	chm = checkout master
+[help]
+	autocorrect = 1
