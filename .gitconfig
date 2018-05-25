@@ -7,9 +7,11 @@
   br = branch
   co = commit
   fo = fetch origin
+  fom = fetch origin master
   di = diff
   po = push origin
-  m = master
+  pom = push origin master
 	chm = checkout master
+  a = add
 [help]
 	autocorrect = 1
